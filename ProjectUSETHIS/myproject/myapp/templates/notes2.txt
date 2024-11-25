@@ -1,0 +1,11 @@
+Serializable isolation level for add/edit/delete because we want high consistency
+
+Read uncommitted for report feature because we want high concurrency and its ok if the 
+aggregate statistics are a little bit inaccurate.
+
+Lessons Learned:
+Mistake was that I started with a basic schema and developed immediately.
+I could not change the schema after developing unless I wanted to redo things.
+Next time, I would have paid more attention to the design of my database before writing the code.
+
+Was very glad to learn how to combine ORM and Django to develop this database application.
