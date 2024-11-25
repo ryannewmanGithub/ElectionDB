@@ -1,0 +1,3 @@
+cd myproject
+python manage.py migrate  # Run migrations
+python manage.py runserver
