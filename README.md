@@ -8,4 +8,3 @@ The index.html file has the code for the add/edit/delete page. The report.html h
 https://github.com/ryannewmanGithub/ElectionDB/blob/main/myproject/myapp/templates/index.html
 https://github.com/ryannewmanGithub/ElectionDB/blob/main/myproject/myapp/templates/report.html
 
-Other files are just default install files from Django.
