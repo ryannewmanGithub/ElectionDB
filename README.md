@@ -1,4 +1,4 @@
-For CS 348 Stage 3.
+For CS 348 Stage 3. Demo video: https://www.youtube.com/watch?v=p_IxwcHRDdA
 
 **Most relevant code files can be found at these links**:
 
